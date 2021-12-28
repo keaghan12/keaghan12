@@ -4,6 +4,6 @@
 - 🌱 I’m learning Python and general programming concepts
 - 🤔 I’m looking for help with diversifying my portfolio
 - 💬 Ask me about space, AI or chess
-- 📫 How to reach me: [email](keaghan.paterson@queensu.ca) [linkdedin](www.linkedin.com/in/keaghan-paterson-971448210)
+- 📫 How to reach me: [Email](mailto:keaghan.paterson@queensu.ca) [LinkdedIn](www.linkedin.com/in/keaghan-paterson-971448210)
 - 😄 Pronouns: He/Him
 - 🏀 Fun fact: I beat an NBA player in a basketball 1v1
