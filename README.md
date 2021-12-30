@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently enrolled in Mechanical Engineering
+- 🔭 I’m a Mechanical Engineering student at Queen's University
 - 🌱 I’m learning Python and general programming concepts
 - 🤔 I’m looking for ways to diversify my portfolio
 - 💬 Ask me about space, AI or chess
